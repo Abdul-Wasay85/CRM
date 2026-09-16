@@ -16,7 +16,6 @@ import {
   LayoutDashboard,
   Loader2,
   LogOut,
-  Mail,
   MessageSquare,
   Search,
   Target,
